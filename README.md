@@ -1,2 +1,2 @@
 # resume-generator
-AI augmented resume and profile builder. Tailor current experience to best fit your newest role.
+A powerful AI-driven tool designed to streamline your job application process. This tool analyzes your existing work and project experience to automatically generate tailored resumes and professional profiles that align perfectly with your target roles. Instead of spending hours manually adjusting your resume for each application, let AI help you highlight the most relevant experiences and skills, saving you valuable time while maximizing your chances of landing your dream job.
