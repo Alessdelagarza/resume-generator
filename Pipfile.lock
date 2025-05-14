@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "771fa56a6157b9666349c74dcdb0baca70c8146e6972933875262bc4c9bb133c"
+            "sha256": "0d3b21ee63c7865aa55fd91ecd08e868112b704d60aef62a10f2a8cbbf24bc72"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -283,6 +283,10 @@
             ],
             "markers": "python_version >= '3.9'",
             "version": "==2.33.2"
+        },
+        "resume-generator": {
+            "editable": true,
+            "file": "."
         },
         "sniffio": {
             "hashes": [

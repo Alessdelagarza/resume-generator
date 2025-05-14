@@ -1,11 +1,9 @@
 from config import Config
 import anthropic
 
-
 config = Config()
 
 client = anthropic.Anthropic(
-    # defaults to os.environ.get("ANTHROPIC_API_KEY")
     api_key=config.anthropic_api_key,
 )
 
